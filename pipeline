@@ -8,7 +8,7 @@ stage("build")
 }
 stage("unit test")
 {
-    echo "test completed"
+    echo "test completed22"
 }
 stage("Deploy")
 {
